@@ -1,0 +1,15 @@
+HOW TO USE LEVEL EDITOR
+1. Obstacles now work, I have a clue how to code it so they all work together, only manually program laser size for obstacles
+	(obstacles are buttons, switches and lasers)
+2. New will create a new blank map where load will load the map from the "LevelX.lvl" file (feel free to change this file to any thing
+	you want just make sure it is called LevelX.lvl to load it properly.
+3. You can edit the level by clicking and dragging a tile to where you want it to go. NOTE: obstacles do work, this is intended.
+4. If you want to edit the portions of the level under the tile select pane, press the space bar or the enter key to close it. Pressing
+	these keys again will open up the tile select pane again.
+5. To delete a tile, right click over it and it will go away.
+6. In order for obstacles to be made properly, you must connect them.  To do this press the "c" key and follow the on screen instructions.
+	If for some reason you want to end this holy experience, press c again.
+7. When you are done and want to save, press Ctrl+S to save (nothing will visibly be different) and the LevelX.lvl file will be saved
+	and ready to be read by the main game (Don't forget to rename the file to which level you need and to connect obstacles!)
+
+ENJOY!
